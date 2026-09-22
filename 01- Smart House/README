@@ -1,0 +1,29 @@
+22/09/2026 - DAY 1
+03:31
+
+Today I learned about the UI for Cisco Packet Tracer and how to use it
+
+With it, I have created a basic Smart House Network which has the following end Devices
+
+Generic Laptop
+2. Generic PC
+3. Gaming PC
+4. Mascom WIFI Router
+5. Security Camera
+6. Air Conditioner
+7. Coffee Maker
+8. JBL Speaker
+9. House Light
+
+CONNECTIONS
+
+WIRELESS - Generic Laptop, Smart Tablet Control
+
+BLUETOOTH - Air Conditioner, JBL Speaker, House Light
+
+PORTS - Gaming PC, Generic PC, Home Security Camera
+
+
+I replaced the Laptop port module with the Linksys-WPC300N module which offers wireless connectivity
+#IMPORTANT LESSON
+ALWAYS TURN DEVICES OFF BEFORE CONFIGURATION
